@@ -1,10 +1,5 @@
-from flask import Flask
+def addition(a,b):
+    return a+b
 
-app = Flask(__name__)
-
-@app.route("/")
-def hello_world():
-    return "<h1>Hello, World!</h1>"
-
-if __name__=="__main__":
-    app.run(host="0.0.0.0")
+def multiplication(a,b):
+    return a+b
