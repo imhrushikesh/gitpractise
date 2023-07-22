@@ -19,4 +19,8 @@ https://{your_url}.ineuron.app:5000/
 
 ## Git hb Tutorials
 
+<<<<<<< HEAD
 ## Hrushi Github 1st class
+=======
+## Hrushi durgude Github Tutorials
+>>>>>>> 79ca9427ddeffb48deb4c3dcdb33bbf016e3aebd
