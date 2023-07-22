@@ -18,3 +18,5 @@ https://{your_url}.ineuron.app:5000/
 ## Krish Naik
 
 ## Git hb Tutorials
+
+## Hrushi Github 1st class
